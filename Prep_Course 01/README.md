@@ -1,66 +1,102 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-# Grabaciones de las Clases del Curso Preparatorio entre el 7 y 25 de Febrero 2022
+<!--# ANALYTICS:-->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161500899-3">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161500899-3');
+</script>
 
-## Grabación de la Clase 1
+<!--# GOOGLE TAG MANAGER-->
+<!--# HEAD-->
+<!-- Google Tag Manager -->
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5Z2JFWV');
+</script>
+<!-- End Google Tag Manager -->
+<!--# BODY-->
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5Z2JFWV"
+height="0" width="0" style="display:none;visibility:hidden">
+  </iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LHV5X0V6Y9"><script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-LHV5X0V6Y9');
+</script>
 
-<div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/683356760" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
+## Clases del Prep Course 2023 para el lanzamiento de la modalidad Part-Time
 
-## Grabación de la Clase 2
+Recuerda que son los mismos contenidos pero con otros instructores:
 
-<div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/674888247" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-## Grabación de la Clase 3
-
-<div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/675579686" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-## Grabación de la Clase 4
-
-<div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/676013575" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-## Grabación de la Clase 5
-
-<div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/676404775" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-## Grabación de la Clase 6
-
-<div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/677267773" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-## Grabación de la Clase 7
-
-<div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/678360524" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-## Grabación de la Clase 8
-
-<div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/678360802" allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-## Grabación de la Clase 9
+### 01-Intro a la Programación y 02-Tipos de Datos
 
 <div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/678752961" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/787787814?h=2db2921dd6" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-## Grabación de la Clase 10
+### 03- Flujos de Control
 
 <div class="iframeContainer">
-  <iframe src="https://player.vimeo.com/video/679179631" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/788605321?h=5b7b32f89f" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
+
+### 04- Estructura de Datos
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/789274159?h=91919ebd5f" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+### 05- Iteradores e Iterables 
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/790068595?h=70bd5ee01e" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+### 06- Funciones
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/790783279?h=d6149b3e5e" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+### 07- Clases y OOP
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/791375340?h=6fce4c8ecd" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+### 08- Error Handling
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/792240816?h=586c8531ca" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+### 09- Manejo de Archivos
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/793070153?h=bc4265bb72" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+### 10- Repaso
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/794965343?h=4ae3d3b1d5" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
